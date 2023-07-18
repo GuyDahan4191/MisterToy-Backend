@@ -1,0 +1,129 @@
+[
+    {
+        "_id": "pm0kb0",
+        "name": "Superman",
+        "price": 56,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Battery Powered",
+                "color": "#71717a"
+            },
+            {
+                "title": "Baby",
+                "color": "#2563eb"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    },
+    {
+        "_id": "Kz0kKm",
+        "name": "Batman",
+        "price": 48,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Battery Powered",
+                "color": "#71717a"
+            },
+            {
+                "title": "Baby",
+                "color": "#2563eb"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    },
+    {
+        "_id": "WPwx9e",
+        "name": "Ironman",
+        "price": 32,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Battery Powered",
+                "color": "#71717a"
+            },
+            {
+                "title": "Baby",
+                "color": "#2563eb"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    },
+    {
+        "_id": "WPwx8e",
+        "name": "Thor",
+        "price": 70,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Battery Powered",
+                "color": "#71717a"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": false
+    },
+    {
+        "_id": "WPwx7e",
+        "name": "Captain America",
+        "price": 60,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": false
+    },
+    {
+        "_id": "WPwx6e",
+        "name": "Hulk",
+        "price": 50,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    },
+    {
+        "_id": "WPwx5e",
+        "name": "Spider Man",
+        "price": 120,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Puzzle",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Outdoor",
+                "color": "#6d28d9"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    }
+]
